@@ -16,3 +16,14 @@ npm install --save less less-loader
 npm install --save jquery
 npm install --save bootstrap-loader
 ```
+
+### An easy way
+Download the package the json and run the command 
+```
+npm install
+```
+
+### The description
+An easy way to create your applications.
+Just download the zip and run the installation.
+There a lot of loaders added and you may not need them. Please feel free to remove the same.
